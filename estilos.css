@@ -1,0 +1,67 @@
+html{
+    height: auto;
+    min-height: 100%;
+}
+
+body{
+    
+    background: linear-gradient(#C71585, #581845 );
+}
+div.firstone{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction:column;
+    padding: 30px;
+    margin: 50px auto;
+    width: 30%;
+    background: linear-gradient(#FF1493, #FF69B4 );
+    border-radius: 10px;
+}
+
+.seconddivision{
+    background: linear-gradient(#C71585, #581845 );
+    padding: 30px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.thirddivision{
+    background: linear-gradient(#C71585, #581845 );
+    padding: 0;
+    border-radius: 10px;
+    width: 60%;
+    margin: 0 auto;
+    height: 30px;
+
+}
+
+.texto{
+    text-align: center;
+    width: 80%;
+    height: 20%;
+    background: linear-gradient(#C71585, #581845 );
+    border: none;
+    border-bottom: 2px solid antiquewhite ;
+
+}
+
+label{
+    color: aliceblue;
+}
+button{
+    background: linear-gradient(#C71585, #581845 );
+    width: 100%;
+    height: 100%;
+    color: antiquewhite;
+}
+
+
+#impresion{
+    color: antiquewhite;
+    text-align: center;
+    border: 2px solid aliceblue;
+    padding: 30px;
+    margin: 50px auto;
+    width: 30%;
+}
